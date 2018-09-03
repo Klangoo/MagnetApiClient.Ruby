@@ -1,0 +1,28 @@
+*.gem
+
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## PROJECT::GENERAL
+coverage
+rdoc
+pkg
+.rvmrc
+.rubocop.yml
+
+## PROJECT::SPECIFIC
+Gemfile.lock
+spec/integration_spec_conf.rb
+data.sqlite3
