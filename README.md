@@ -11,7 +11,7 @@ gem install magnetapiclient
 ```
 
 ### Install  manually:
-Download and add to your project the file [MagnetAPIClient.py](https://github.com/Klangoo/MagnetApiClient.Ruby/blob/master/lib/magnetapiclient.rb)
+Download and add to your project the file [magnetapiclient.rb](https://github.com/Klangoo/MagnetApiClient.Ruby/blob/master/lib/magnetapiclient.rb)
 
 ## Quick Start
 
